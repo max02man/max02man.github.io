@@ -43,3 +43,15 @@ textarea {
 	 border-style:solid!important;
 	 border-color:black!important;
  }
+#sidebar-content li a
+ {
+	  background-color: #ff6600;
+	  list-style-type: none;
+	 color: #9d9d9d;
+	 text-align: center;
+ }
+ #sidebar-content li a:hover {
+    background-color: black;
+    color: white;
+}
+
