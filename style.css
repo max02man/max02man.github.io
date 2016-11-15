@@ -54,4 +54,10 @@ textarea {
     background-color: black;
     color: white;
 }
-
+#dropdown li a
+ {
+	  background-color: #ff6600;
+	  list-style-type: none;
+	 color: #9d9d9d;
+	 text-align: center;
+ }
